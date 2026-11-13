@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Time Manager</string>
+    <string name="title_activity_main">Time Manager</string>
+    <string name="package_name">com.timemanager.app</string>
+    <string name="custom_url_scheme">com.timemanager.app</string>
+</resources>
